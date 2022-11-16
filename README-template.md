@@ -1,13 +1,13 @@
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-project-Ue-Zpry4rD)
 - Live Site URL: [Add live site URL here](https://qrcodeproject-zak.netlify.app/)
 
 ## My process
 
 I first went started to work in the html adding in the relative items needed such as the image and text, also putting in the bootstrap as i used that for the initial card design.
 
-after that i worked on the design of the project in css starting with the main card div then, then the image then the text. After that I added twiks such as adding margin top or bottom to move the text and image around approprately to fit with align correctly.
+After that i worked on the design of the project in css starting with the main card div then, then the image then the text. After that I added twiks such as adding margin top or bottom to move the text and image around approprately to fit with align correctly.
 
 Be more brave in pushing myself is my biggest takeaway and ask for help.
 
@@ -15,22 +15,19 @@ Be more brave in pushing myself is my biggest takeaway and ask for help.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+
 - Bootstrap
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-one of the main takes i learnt was that in order to get bootstrap to work first i need to add the link first then my stylesheet after in order to load correctly.
+One of the main takes i learnt was that in order to get bootstrap to work first I need to add the link first then my stylesheet after in order to load correctly.
 
 I learnt alot about my self whilst working on this project and taking on projects are always better then being stuck in tutorials.
 
 Be more brave in pushing myself is my biggest takeaway and ask for help has benefited me alot.
 
-When publishing to nleitfy, if project is inside a folder it somehow messes things up strangely enough, if its in a big folder, had same issue wuith another project, maybe has path issue.
+When publishing to netlify, if project is inside a folder it somehow messes things up strangely enough, if its in a big folder, had same issue wuith another project, maybe has path issue.
 
 ### Continued development
 
@@ -49,4 +46,4 @@ I would like to focus more on flex and grids in future projects and work on how 
 
 ## Acknowledgments
 
-I would like to thank Tom for helping me out with explaining to me the importance of loading stylesheets which using bootsrap and general stylesheets
+I would like to thank Tom for helping me out with explaining to me the importance of loading stylesheets whilst using bootsrap and general stylesheets
