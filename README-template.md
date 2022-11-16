@@ -28,6 +28,8 @@ I learnt alot about my self whilst working on this project and taking on project
 
 Be more brave in pushing myself is my biggest takeaway and ask for help has benefited me alot.
 
+When publishing to nleitfy, if project is inside a folder it somehow messes things up strangely enough
+
 
 
 ### Continued development
